@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+tm/flash_chat/BuildConfig.java
+ tm.flash_chat.BuildConfig

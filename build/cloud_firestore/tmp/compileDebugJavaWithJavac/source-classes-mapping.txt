@@ -1,0 +1,20 @@
+io/flutter/plugins/firebase/cloudfirestore/CloudFirestorePlugin.java
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$1
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$10
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$11
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$12
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$2
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$3
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$3$1
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$4
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$5
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$6
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$7
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$8
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$9
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$DocumentObserver
+ io.flutter.plugins.firebase.cloudfirestore.CloudFirestorePlugin$EventObserver
+ io.flutter.plugins.firebase.cloudfirestore.FirestoreMessageCodec
+io/flutter/plugins/firebase/firestore/BuildConfig.java
+ io.flutter.plugins.firebase.firestore.BuildConfig
